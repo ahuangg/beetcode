@@ -1,4 +1,3 @@
-// services/scheduledMessages.ts
 import { Client, TextChannel, EmbedBuilder, Embed } from "discord.js";
 import cron from "node-cron";
 import { ApiClient } from "../api/api-client";
